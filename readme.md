@@ -6,4 +6,4 @@
 <b>2.With txt file include urls  </b><br>
 <code>Python data_finder.py <txtfile> </code>
 <h3>Result</h3>
-<img src="result.jpeg">
+<img src="result.jpg">
